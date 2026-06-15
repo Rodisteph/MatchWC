@@ -1,0 +1,7 @@
+**/Sercret.xcconfig
+**/Secret.xcconfig
+.DS_Store
+xcuserdata/
+DerivedData/
+*.xcuserstate
+build/
