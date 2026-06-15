@@ -19,4 +19,5 @@ Application iOS développée en SwiftUI permettant de suivre les matchs de la Co
 
 ### Matches
 
-<img width="1206" height="2622" alt="Screenshot iPhone 17 Pro 15-06-2026 at 18 41 54" src="https://github.com/user-attachments/assets/76c08ee0-ccf6-49c4-bd61-5bb54dc2f33f" />
+<img width="1206" height="2622" alt="ContentView" src="https://github.com/user-attachments/assets/667d7bf4-ece2-40ea-afd6-f4fab85f3c64" />
+
