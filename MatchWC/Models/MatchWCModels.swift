@@ -14,7 +14,7 @@ struct Match: Codable, Identifiable {
 
 struct Team: Codable {
     let name: String?
-    let crest: String?   // URL du logo
+    let crest: String?   
 }
 
 struct Score: Codable {
